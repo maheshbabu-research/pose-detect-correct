@@ -1,22 +1,12 @@
 # pose-detect-correct
 Human Sitting and Yoga Pose Detection Correction and Pose Generation
 
-This project is a part of the AAI-521 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
-
-**Project Status:** Completed
-
 **Project Objective:**
 
 The main objective of this project is to develop a computer vision based real-time automated system to solve some of the problems of the new fast-paced digital age sedentary lifestyle specifically focusing on
 personal health and fitness (Human sitting pose and yoga pose detection and correction).This project aims to develop an advanced system for Human Sitting and Yoga Pose Detection, Correction, and Pose Generation
 using computer vision and deep learning techniques. The goal is to build accurate models for detecting sitting and yoga poses, provide real-time corrective feedback, and generate new poses for users.
 The project aims to explore the effectiveness of pose detection models like MediaPipe and custom algorithms for posture correction and pose generation, making it useful for health, wellness, and fitness applications.  
-
-**Partner(s)/Contributor(s):**
-
-  - Mahesh Babu
-  - Keerthana
-  - Paritosh Umeshan
 
 **Project Description:**
 
@@ -122,12 +112,6 @@ To set up this project
 6. **Run the project notebooks**
    Run in google colab
 
-
-**Acknowledgments:**
-
-We would like to thank Prof. Haisav Chokshi for his invaluable guidance and mentorship throughout the course. Special thanks to the developers of MediaPipe for providing an excellent pose estimation framework,
-and to the open-source community for their contributions to machine learning and computer vision.
-Additionally, we would like to acknowledge the authors of the Yoga-82 dataset for their contribution to pose classification in yoga poses:
 
 **References:**
 
