@@ -3,14 +3,14 @@ Human Sitting and Yoga Pose Detection Correction and Pose Generation
 
 **Project Objective:**
 
-The main objective of this project is to develop a computer vision based real-time automated system to solve some of the problems of the new fast-paced digital age sedentary lifestyle specifically focusing on
-personal health and fitness (Human sitting pose and yoga pose detection and correction).This project aims to develop an advanced system for Human Sitting and Yoga Pose Detection, Correction, and Pose Generation
-using computer vision and deep learning techniques. The goal is to build accurate models for detecting sitting and yoga poses, provide real-time corrective feedback, and generate new poses for users.
+The main objective of this project is to develop a **computer vision based real-time automated system** to solve some of the problems of the new fast-paced digital age sedentary lifestyle specifically focusing on
+personal health and fitness (**Human sitting pose and yoga pose detection and correction**).This project aims to develop an advanced system for **Human Sitting and Yoga Pose Detection, Correction, and Pose Generation
+using computer vision and deep learning techniques**. The goal is to build accurate models for detecting sitting and yoga poses, provide real-time corrective feedback, and generate new poses for users.
 The project aims to explore the effectiveness of pose detection models like MediaPipe and custom algorithms for posture correction and pose generation, making it useful for health, wellness, and fitness applications.  
 
 **Project Description:**
 
-This project focuses on building a system for detecting, correcting, and generating sitting and yoga poses. The system leverages pose estimation techniques to detect human poses in real-time, compares these with
+This project focuses on building a system for **detecting, correcting, and generating sitting and yoga poses**. The system leverages pose estimation techniques to detect human poses in real-time, compares these with
 ideal reference poses, and provides corrective feedback. Additionally, it includes a feature for generating new poses based on detected postures using Stable Diffusion and offers personalized exercises and routines.
 The pose detection is powered by the MediaPipe framework, which allows for tracking key human joints and creating a skeleton-like representation. The corrective algorithm compares deviations from the reference pose
 and provides feedback for better posture. Pose generation is achieved through machine learning techniques, manipulating joint positions to suggest new poses.
